@@ -1,0 +1,28 @@
+div
+{
+ width: 1000px;
+ height: 300px;
+ border: 2px solid;
+}
+
+h2{
+    width:1000px;
+    height:300 px;
+    background-color: grey;
+    border: 1px solid;
+}
+section{
+    width: 200px;
+    height: 200px;
+    color: blue;   
+background-color: goldenrod;
+}
+article
+{
+    margin-top: -150px;
+    margin-left: 700px;
+     width: 200px;
+    height: 150px;
+    background-color: grey;
+} 
+
